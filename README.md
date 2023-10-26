@@ -10,6 +10,7 @@ DATA 25.10.2023
 26.4
 26.5
 26.6
+27
 =======
 try to add some info
 >>>>>>> ceaf523333d5420383b45c586aabb779ed1d0f1e
